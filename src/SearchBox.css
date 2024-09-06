@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.search-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    width: 100%;
+    background-color: #FFE5CF;
+}
+.input-city{
+    width: 400px;
+}
+h3{
+    font-family: sans-serif;
+    margin-top: 50px;
+}
+.city-search{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 90%;
+    align-items: center;
+}
+.search-btn{
+    background-color: #FF8343;
+    color: black;
+    width: 150px;
+}
